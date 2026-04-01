@@ -16,6 +16,7 @@ Detecting CuRB is clinically challenging due to radiographic artifacts introduce
 - Output visualization for clinical interpretation
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📌Installation
+
 Install dependencies:
 ```bash
 pip install -r requirements.txt
