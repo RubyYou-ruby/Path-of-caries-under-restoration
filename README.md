@@ -15,7 +15,7 @@ Detecting CuRB is clinically challenging due to radiographic artifacts introduce
 - Deep learning-based CuRB classification
 - Output visualization for clinical interpretation
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Installation*
+**📌Installation_*
 Install dependencies:
 ```bash
 pip install -r requirements.txt
